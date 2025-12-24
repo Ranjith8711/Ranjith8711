@@ -65,8 +65,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjith8711&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ranjith8711 &theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
-
----
 
