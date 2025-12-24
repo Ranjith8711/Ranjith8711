@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm RANJITH.R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjith8711&label=Profile%20views&color=0e75b6&style=flat" alt="ranjith8711" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjith8711" alt="ranjith8711" /></a> </p>
-
 - 🌱 I’m currently learning *Java, python*
 
 - 👨‍💻 All of my projects are available at [https://ranjith2025.neocities.org/](https://ranjith2025.neocities.org/)
