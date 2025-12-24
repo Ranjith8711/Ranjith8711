@@ -69,6 +69,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=Ranjith8711 &theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ranjith8711 &icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
