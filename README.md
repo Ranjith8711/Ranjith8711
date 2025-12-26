@@ -1,7 +1,17 @@
 ## Hi there I am Ranjith.R 👋
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" />
+  <img height="150" src="data:image/svg+xml;utf8,
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 160'>
+  <rect x='20' y='10' width='80' height='120' rx='40' fill='%23F7D117'/>
+  <rect x='25' y='40' width='70' height='30' rx='15' fill='%23555'/>
+  <circle cx='45' cy='55' r='12' fill='white'/>
+  <circle cx='75' cy='55' r='12' fill='white'/>
+  <circle cx='45' cy='55' r='5' fill='black'/>
+  <circle cx='75' cy='55' r='5' fill='black'/>
+  <path d='M45 85 Q60 95 75 85' stroke='black' stroke-width='3' fill='none'/>
+  <rect x='20' y='100' width='80' height='40' fill='%232B5DAB'/>
+</svg>" />
 </div>
 
 
