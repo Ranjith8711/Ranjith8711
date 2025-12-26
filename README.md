@@ -1,4 +1,4 @@
-<p align="center">Hi, I’m <b>Ranjith.R</b> 👋</p>
+#<p align="center">Hi, I’m <b>Ranjith.R</b> 👋</p>
 
 <div align="center">
   <img height="150" src="data:image/svg+xml;utf8,
