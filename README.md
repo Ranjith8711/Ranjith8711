@@ -1,5 +1,4 @@
 <p align="center">Hi, I’m <b>Ranjith.R</b> 👋</p>
- there I am Ranjith.R 👋
 
 <div align="center">
   <img height="150" src="data:image/svg+xml;utf8,
