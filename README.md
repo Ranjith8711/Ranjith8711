@@ -81,4 +81,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjith8711&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
