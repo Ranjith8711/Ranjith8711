@@ -1,5 +1,7 @@
 # Hi There.. I am Ranjith.R....!
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ranjith%20R" />
+
 <div align="center"> <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> </div>
 
 <div align="center">
