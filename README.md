@@ -4,7 +4,7 @@
 
 <div align="center"> <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> </div>
 
-<div align="center">
+<div align="center"> 
   <img height="150" src="data:image/svg+xml;utf8,
 <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 160'>
   <rect x='20' y='10' width='80' height='120' rx='40' fill='%23F7D117'/>
@@ -81,9 +81,5 @@
 
 <a href="http://www.github.com/Ranjith8711"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjith8711&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 
