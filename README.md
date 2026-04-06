@@ -4,9 +4,7 @@
 
 ![img Banner-2](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 
-<div align="center"> <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> </div>
-
-<div align="center"> 
+ 
   <img height="150" src="data:image/svg+xml;utf8,
 <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 160'>
   <rect x='20' y='10' width='80' height='120' rx='40' fill='%23F7D117'/>
