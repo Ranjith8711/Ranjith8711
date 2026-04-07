@@ -1,6 +1,6 @@
 # Hi There.. I am Ranjith.R....!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ranjith%20R" />
+<img src="https://github.com/Ranjith8711/Ranjith8711/blob/803c831a94fb0a25840773c5038f13d7bce8e2b2/github-header-banner%20(5).png" />
 
 ![img Banner-2](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 
