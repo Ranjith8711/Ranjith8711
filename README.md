@@ -24,12 +24,7 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Ranjith8711">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ranjith8711&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Ranjith8711's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Ranjith8711&theme=radical&hide_border=true&cache_seconds=86400" alt="Ranjith8711's GitHub Streak" width="49%" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjith8711&" alt="Ranjith8711" /></p>
 
 
 # 💻 Tech Stack:
