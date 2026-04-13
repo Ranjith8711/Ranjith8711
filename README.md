@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjith8711&" alt="Ranjith8711" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjith8711&" alt="ranjith8711" /></p>
 
 # 💻 Tech Stack:
 
