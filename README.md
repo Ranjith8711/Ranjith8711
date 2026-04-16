@@ -81,7 +81,21 @@
 
 
 ## 🔗 Connect with Me
+<h3 align="center">🌐 Connect with Me</h3>
 
+<p align="center">
+  <a href="https://x.com/RRajivbhai31360" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="45" height="45"/>
+  </a>
+  
+  <a href="mailto:ranjith2204002@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="45" height="45"/>
+  </a>
+  
+  <a href="https://ranjith2025.neocities.org/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Website" width="45" height="45"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
