@@ -1,11 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ranjith%20R&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Ranjith8711">
-    <img src="https://komarev.com/ghpvc/?username=Ranjith8711&label=Profile%20views&color=00FFFF&style=flat-square" alt="Ranjith8711's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=Ranjith8711" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Ranjith8711&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
