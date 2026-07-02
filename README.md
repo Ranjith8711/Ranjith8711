@@ -22,9 +22,6 @@
 - Android developer
 
 
-## 📊 GitHub Stats & Trophies
-<a href="http://www.github.com/Ranjith8711"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjith8711&stroke=ffffff&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
